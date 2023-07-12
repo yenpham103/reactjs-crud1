@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name": "Pham Yen",
+        "tel": "09854441" ,
+        "permission":1
+    },
+    {
+        "id":2,
+        "name": "Pham Giang",
+        "tel":"864562",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name": "Phung Anh",
+        "tel":"0961222" ,
+        "permission":3
+    },
+    {
+        "id":4,
+        "name": "Sun Flo",
+        "tel":"09874141" ,
+        "permission":4
+    },
+    {
+        "id":5,
+        "name": "Ya Sa Da",
+        "tel":"0424745" ,
+        "permission":5
+    }
+    
+]
